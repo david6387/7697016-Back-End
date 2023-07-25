@@ -39,7 +39,7 @@
       "nom": "Balai d'essuie-glace",
       "prix": 29.1,
       "image": "images/balai-essuie-glace.png",
-      "description": "Performances d’essuyage au Top ! Longueur : 550 mm",
+      "description": "Performance d’essuyage au Top ! Longueur : 550 mm",
       "disponibilite": true
     }
   ],
@@ -185,4 +185,3 @@
     }
   ]
 }
-// comment

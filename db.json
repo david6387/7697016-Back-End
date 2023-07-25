@@ -1,6 +1,5 @@
 {
-  "pieces": [
-    {
+  "pieces": [{
       "id": 1,
       "nom": "Ampoule LED",
       "prix": 60,
@@ -44,8 +43,7 @@
       "disponibilite": true
     }
   ],
-  "avis": [
-    {
+  "avis": [{
       "id": 1,
       "pieceId": 1,
       "utilisateur": "Kristen Larson",
@@ -187,3 +185,4 @@
     }
   ]
 }
+// comment
